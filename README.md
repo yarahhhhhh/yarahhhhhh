@@ -1,3 +1,3 @@
-Hi I'm Yara,
+Hello there,
+I'm Yara.
 
-A Data Scientist/NLP engineer. 
